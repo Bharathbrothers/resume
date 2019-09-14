@@ -1,4 +1,8 @@
-# My Resume
+# BHARATH SATHURI
+## My Resume
+
+### CONTACT:
+
 ```
 Phone : (+91) 9133 430 813
 bharathsathuri@gmail.com
@@ -7,13 +11,15 @@ Github : Bharathbrothers
 website : bharathsathuri.me
 blog : starksources.github.io/myblog
 ```
-## BHARATH SATHURI
+
+### Address:
 
 ```
 RangaReddy,
 Hyderabad
 Pin code : 500058
 ```
+
 ### EXPERIENCE :
 
 - **Web Developer Intern at Volksoft Technologies**
