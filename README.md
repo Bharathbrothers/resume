@@ -1,4 +1,4 @@
-# Resume
+# My Resume
 ```
 Phone : (+91) 9133 430 813
 bharathsathuri@gmail.com
@@ -59,8 +59,8 @@ Pin code : 500058
 - **Analytics Dashboard in R using Shiny**
 ```
 A complete tool for Data Processing, Visualizing and making
-Predictions for Better Results in Agriculture and Weather using Shiny framework in R, 
-plotly for interactive plots and R-Studio.
+Predictions for Better Results in Agriculture and Weather using 
+Shiny framework in R, plotly for interactive plots and R-Studio.
 ```
 - **Android Application to get Real-time location for RTC Buses using Crowdsourcing and Firebase**
 
