@@ -22,34 +22,34 @@ Pin code : 500058
 
 ### EXPERIENCE :
 
-- **Web Developer Intern at Volksoft Technologies**
-    _June 2019-July 2019_
+- **Web Developer Intern at Volksoft Technologies**<br>
+    _June 2019-July 2019_<br>
        _Worked on a jQuery based web-application along with a team_
        _of five members._
-- **Android Developer Intern at YEF India**
-    _May 2018-June 2018_
+- **Android Developer Intern at YEF India**<br>
+    _May 2018-June 2018_<br>
        _Developed two mobile applications for a social cause for an_
        _NGO (Youth Empowerment Foundation) along with two other_
        _members._
 
 ### SKILLS :
 
-- **TOOLS AND TECHNOLOGIES:**
+- **TOOLS AND TECHNOLOGIES:**<br>
     _Android App Development (Intermediate), Web Development_
     _(Intermediate), Sublime, Eclipse, Netbeans, Android Studio, R_
     _Studio, Microsoft-Visual-Code, Jupyter Notebooks._
-- **PROGRAMMING LANGUAGES:**
+- **PROGRAMMING LANGUAGES:**<br>
     C( _Proficient_ ), C++( _Intermediate_ ), Java( _Intermediate_ ),
     Python( _Intermediate_ ), R( _Intermediate_ ), HTML( _Intermediate_ ),
     CSS( _Intermediate_ ), JavaScript(Intermediate)
 
 ### EDUCATION :
 
-- **B.Tech in Computer Science and Engineering**
+- **B.Tech in Computer Science and Engineering**<br>
     _SNIST, Hyderabad. Score: 8.89 CGPA Year:_
-- **Intermediate (M.P.C)**
+- **Intermediate (M.P.C)**<br>
     _Narayana Junior College. Score: 96.2% Year:_
-- **Secondary School of Education(S.S.C)**
+- **Secondary School of Education(S.S.C)**<br>
     _Bhashyam Public School. Score:9.7 GPA Year:_
 
 ### CERTIFICATIONS:
