@@ -120,6 +120,7 @@ a Github sub-domain.
     - Good in Public Networking(making new friends and maintaining them)
 
 # Bharath Sathuri
+#### [pdf file](/bharathsathuri-resume.pdf) 
 
 
 
